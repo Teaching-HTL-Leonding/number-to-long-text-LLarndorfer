@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\bin\Debug\net7.0\037-number-formatter.exe
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\bin\Debug\net7.0\037-number-formatter.deps.json
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\bin\Debug\net7.0\037-number-formatter.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\bin\Debug\net7.0\037-number-formatter.dll
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\bin\Debug\net7.0\037-number-formatter.pdb
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\037-number-formatter.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\037-number-formatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\037-number-formatter.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\037-number-formatter.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\037-number-formatter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\037-number-formatter.dll
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\refint\037-number-formatter.dll
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\037-number-formatter.pdb
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\037-number-formatter.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\037-number-formatter\obj\Debug\net7.0\ref\037-number-formatter.dll
